@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación desarrollada en React que consiste en una tienda online (e-commerce).
 
-##**<ins>Tecnologías y herramientas usadas:</ins>** 
+## **<ins>Tecnologías y herramientas usadas:</ins>** 
 
 - Planificación: Excalidraw → https://excalidraw.com  
 - Front-end: React + Vite, CSS modular (SASS), MUI (códigos base adaptados al proyecto)  
@@ -11,7 +11,7 @@ Este proyecto es una aplicación desarrollada en React que consiste en una tiend
 - Herramientas de desarrollo: Git y Node Package Manager (npm)
 
 
-##**<ins>Sistemas implementados:</ins>**
+## **<ins>Sistemas implementados:</ins>**
 
 - Ver productos por categorías y subcategorías  
 - Buscar productos por palabras clave  
@@ -24,18 +24,18 @@ Este proyecto es una aplicación desarrollada en React que consiste en una tiend
 - Cambio de tema claro/oscuro  
 - Navegación con react-router-dom  
 
-##**<ins>Assets utilizados:</ins>**  
+## **<ins>Assets utilizados:</ins>**  
 - Imágenes de cada producto generadas por IA:  
   - Copilot Microsoft  
   - Ketchup → https://ketchup-ai.com/es  
   - Íconos descargados de la página → https://icons8.com/icon/4F6jtrjo4gVC/crystal  
   - Íconos y códigos base de MUI → https://mui.com  
 
-##**<ins>Control de versiones:</ins>  
+## **<ins>Control de versiones:</ins>  
 - Git y GitHub
 
 
-##**<ins>Estructura de carpetas:</ins>**
+## **<ins>Estructura de carpetas:</ins>**
 
 ```
 mi-proyecto/
@@ -55,7 +55,7 @@ mi-proyecto/
 └── README.md
 ```
 
-##**<ins>Cómo usarlo:<ins>**
+## **<ins>Cómo usarlo:<ins>**
 
 1. Clonar el repositorio:  
 ```bash
