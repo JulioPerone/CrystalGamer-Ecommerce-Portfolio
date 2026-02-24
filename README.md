@@ -55,6 +55,7 @@ mi-proyecto/
 └── README.md
 ```
 
+
 ## **<ins>Cómo usarlo:<ins>**
 
 1. Clonar el repositorio:  
@@ -78,5 +79,11 @@ npm run server
 http://localhost:5173/
 ```
 
-# Licencia:
 
+## **<ins>Licencia:<ins>**
+
+Este proyecto fue creado con fines de **portfolio personal**.  
+No está permitido su uso comercial.  
+Puedes utilizarlo para estudiarlo y compartirlo.  
+
+**Copyright © Julio Perone — Todos los derechos reservados**
