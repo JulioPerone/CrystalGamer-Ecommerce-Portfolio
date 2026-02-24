@@ -31,7 +31,7 @@ Este proyecto es una aplicación desarrollada en React que consiste en una tiend
   - Íconos descargados de la página → https://icons8.com/icon/4F6jtrjo4gVC/crystal  
   - Íconos y códigos base de MUI → https://mui.com  
 
-## **<ins>Control de versiones:</ins>  
+## **<ins>Control de versiones:</ins>**  
 - Git y GitHub
 
 
