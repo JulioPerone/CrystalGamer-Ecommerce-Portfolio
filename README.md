@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación desarrollada en React que consiste en una tienda online (e-commerce).
 
-# Tecnologías y herramientas usadas:
+##**<ins>Tecnologías y herramientas usadas:</ins>** 
 
 - Planificación: Excalidraw → https://excalidraw.com  
 - Front-end: React + Vite, CSS modular (SASS), MUI (códigos base adaptados al proyecto)  
@@ -11,7 +11,7 @@ Este proyecto es una aplicación desarrollada en React que consiste en una tiend
 - Herramientas de desarrollo: Git y Node Package Manager (npm)
 
 
-# Sistemas implementados:
+##**<ins>Sistemas implementados:</ins>**
 
 - Ver productos por categorías y subcategorías  
 - Buscar productos por palabras clave  
@@ -24,18 +24,18 @@ Este proyecto es una aplicación desarrollada en React que consiste en una tiend
 - Cambio de tema claro/oscuro  
 - Navegación con react-router-dom  
 
-# Assets utilizados:  
+##**<ins>Assets utilizados:</ins>**  
 - Imágenes de cada producto generadas por IA:  
   - Copilot Microsoft  
   - Ketchup → https://ketchup-ai.com/es  
   - Íconos descargados de la página → https://icons8.com/icon/4F6jtrjo4gVC/crystal  
   - Íconos y códigos base de MUI → https://mui.com  
 
-# Control de versiones:  
+##**<ins>Control de versiones:</ins>  
 - Git y GitHub
 
 
-# Estructura de carpetas:
+##**<ins>Estructura de carpetas:</ins>**
 
 ```
 mi-proyecto/
@@ -55,18 +55,28 @@ mi-proyecto/
 └── README.md
 ```
 
+##**<ins>Cómo usarlo:<ins>**
 
-# Como usarlo
-
-1. Clonar el repositorio:
+1. Clonar el repositorio:  
 ```bash
 git clone https://github.com/JulioPerone/CrystalGamer-Ecommerce-Portfolio.git
 ```
-3. Intalar dependencias: 
-```npm install```
-4. Ejecutar en modo desarrollo: 
-```npm run dev```
-5. Ejecutar también el servidor de la base de datos: 
-```npm run server```
-6. Abrir en el navegador
-```http://localhost:5173/```
+2. Intalar dependencias: 
+```bash
+npm install
+```
+3. Ejecutar en modo desarrollo: 
+```bash
+npm run dev
+```
+4. Ejecutar también el servidor de la base de datos: 
+```bash
+npm run server
+```
+5. Abrir en el navegador:
+```bash
+http://localhost:5173/
+```
+
+# Licencia:
+
