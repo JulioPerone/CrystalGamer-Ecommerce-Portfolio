@@ -1,0 +1,52 @@
+@use './variables.scss' as v;
+@use './mixins.scss' as m;
+
+.form-register, .form-login {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  justify-content: center;
+  align-items: center;
+  font-family: v.$font-stack;
+
+  label {
+    font-weight: bold;
+    margin-top: 1px;
+    margin-bottom: 4px;
+    color: v.$primary;
+  }
+
+  input {
+    width: 250px;
+    padding: 0.75rem;
+    margin: 8px 0;
+    background-color: v.$secondary;
+    border: 1px solid lighten(v.$primary, 20%);
+    border-radius: 8px;
+    font-size: 14px;
+    transition: all 0.3s ease;
+
+    &:focus {
+      outline: none;
+      background-color: lighten(v.$secondary, 5%);
+      box-shadow: 0 0 6px rgba(v.$primary, 0.4);
+    }
+  }
+
+  button {
+    margin-top: 15px;
+    @include m.button-style(v.$primary, #fff); // usando tu mixin
+    font-size: 16px;
+
+    &:disabled {
+      background-color: lighten(v.$primary, 20%);
+      cursor: not-allowed;
+    }
+  }
+
+  p {
+    margin-top: 10px;
+    color: v.$accent;
+    font-weight: bold;
+  }
+}

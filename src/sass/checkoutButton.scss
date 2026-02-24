@@ -1,0 +1,40 @@
+$spinner-size: 24px;
+$spinner-border: 4px;
+$spinner-color: #3498db;
+$spinner-bg: #f3f3f3;
+
+.checkout-container {
+  margin-top: 20px;
+
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+
+    &:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+  }
+
+  .spinner {
+    margin-top: 10px;
+    border: $spinner-border solid $spinner-bg;
+    border-top: $spinner-border solid $spinner-color;
+    border-radius: 50%;
+    width: $spinner-size;
+    height: $spinner-size;
+    animation: spin 1s linear infinite;
+  }
+
+  .done-message {
+    color: green;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+}
+
+@keyframes spin {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

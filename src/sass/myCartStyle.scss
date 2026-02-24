@@ -1,0 +1,73 @@
+@use './variables.scss' as v;
+@use './mixins.scss' as m;
+
+.container_cart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: v.$font-stack; // uso de variable global
+
+  img {
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+  }
+
+  h4 {
+    font-size: 1.2rem;
+    margin: 0 10px;
+    color: v.$primary; // uso de variable
+  }
+
+  p {
+    color: darken(v.$secondary, 30%); // derivado de variable
+    margin: 15px;
+  }
+
+  .button_cart {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+    button {
+      // aplico el mixin con alias "m"
+      &.increment {
+        @include m.button-style(v.$primary, white);
+      }
+
+      &.decrement {
+        @include m.button-style(v.$accent, white);
+      }
+    }
+
+    p {
+      font-weight: bold;
+      color: v.$primary;
+    }
+  }
+}
+
+.item-list {
+  .container_cart {
+    &:nth-child(odd) {
+      background-color: v.$secondary; // gris claro
+    }
+
+    &:nth-child(even) {
+      background-color: darken(v.$secondary, 8%); // gris más oscuro
+    }
+  }
+}
+
+.total-carrito {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.botton-actions {
+    display: flex;
+    margin: 15px;
+    justify-content: space-between;
+    align-items: center;
+}

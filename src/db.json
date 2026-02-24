@@ -1,0 +1,821 @@
+{
+  "products": [
+    {
+      "ProductId": 1,
+      "nombre": "Notebook TechStone",
+      "descripcion": "Notebook TechStone T14, Intel Core i5, 8GB RAM, 256GB SSD, Minimalista, acabado metalico plateado",
+      "precio": 400000,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": 15,
+      "catId": 1,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/rc88regeus63mf4rym7v2/TechStone-T14.png?rlkey=rvy1qo1zwbq7mr81rxv8gk5nr&st=2z60cdxl&dl=0",
+      "tags": [
+        "Notebook",
+        "techStone",
+        "intel",
+        "i5",
+        "lcd",
+        "pad",
+        "usb",
+        "hdmi",
+        "wifi",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 2,
+      "nombre": "Notebook Ratex Pro",
+      "descripcion": "Notebook Ratex Z10, Intel Core i5 11 Gen, 8GB RAM, 256GB SSD, ultrafino, acabado metalico gris oscuro",
+      "precio": 917499,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "25",
+      "catId": 1,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/5z2g2wdlvc4y6ni2gy749/Ratex-Pro.png?rlkey=9ltl8fswq2j7t9bgmtpfwgt0l&st=c1551dlj&dl=0",
+      "tags": [
+        "Notebook",
+        "Ratex",
+        "intel",
+        "i5",
+        "metalico",
+        "pad",
+        "usb",
+        "ultrafino",
+        "hdmi",
+        "wifi",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 3,
+      "nombre": "Notebook NOVA 15.6",
+      "descripcion": "Notebook NOVA 15.6, AMD Ryzen 5, 8GB RAM, 512GB SSD, acabado gris oscuro mate, touchpad amplio",
+      "precio": 1119999,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "50",
+      "catId": 1,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/19z83o9dqc0vafjvdy4de/NOVA-15.6.png?rlkey=2edgvzuhgt4cynmovllyu1pkv&st=a3lt4fc8&dl=0",
+      "tags": [
+        "Notebook",
+        "NOVA",
+        "intel",
+        "i5",
+        "gris",
+        "mate",
+        "touchpad",
+        "pad",
+        "usb",
+        "hdmi",
+        "wifi",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 4,
+      "nombre": "PC Gamer CRONOS",
+      "descripcion": "PC gamer CRONOS, Monitor 32 pulgadas Full HD 160Hz, soporte ajutable, Intel core i9, placa de video RTX 4070, 32GB RAM, 2TB SSD, estilo robusto",
+      "precio": 911440,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "25",
+      "catId": 1,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/2hl77jz5qo39zlkbtp7r9/PC-Gamer-CRONOS-Z780.png?rlkey=czzywurmhyd1ct0ld8budv364&st=1d91jumo&dl=0",
+      "tags": [
+        "PC",
+        "gamer",
+        "intel",
+        "i9",
+        "funcional",
+        "streamers",
+        "multitask",
+        "RTX",
+        "4070",
+        "luces",
+        "rgb",
+        "monitos",
+        "32",
+        "pulgadas",
+        "hdmi",
+        "32GB",
+        "ram",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 5,
+      "nombre": "PC Gamer NEBULA CORE",
+      "descripcion": "PC gamer NEBULA CORE, Monitor 24 pulgadas Full HD, 75Hz, AMD Ryzen 5, placa de video GTX 1660 Super, 16GB RAM, 2TB SSD, estilo sobrio y moderno",
+      "precio": 1033490,
+      "divisa": "ARS",
+      "en Stock": "No disponible",
+      "stock": "5",
+      "catId": 1,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/x8xqsnbh52s27624ei6rh/PC-Gamer-NEBULA-CORE.png?rlkey=dzn42lj5be0st9uwdl6oo3pko&st=ped5pi5j&dl=0",
+      "tags": [
+        "PC",
+        "gamer",
+        "amd",
+        "ryzen",
+        "5",
+        "GTX",
+        "1660",
+        "super",
+        "moderno",
+        "16GB",
+        "ram",
+        "ssd",
+        "monitor",
+        "Full HD",
+        "24 pulgadas",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 6,
+      "nombre": "PC Gamer VORTEX GX",
+      "descripcion": "Pc Gamer VORTEX, monitor curvo 27 pulgadas 4k, 145Hz, gabinete lateral vidrio templado, intel Core i7, placa de video RTX 3060, 64gb RAM, 2TB SSD, diseño novedoso con ilumacion multicolor",
+      "precio": 1502999,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "10",
+      "catId": 1,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/ompit39rxz1u8udokcwyq/PC-Gamer-VORTEX-GX.png?rlkey=esvvppb2vt2ar573y1fuep6ne&st=n50s23bp&dl=0",
+      "tags": [
+        "PC",
+        "gamer",
+        "intel",
+        "i7",
+        "RTX",
+        "3060",
+        "novedoso",
+        "64GB",
+        "ram",
+        "ssd",
+        "monitor",
+        "27 pulgadas",
+        "Full HD",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 7,
+      "nombre": "Celular Aureon X5 Pro",
+      "descripcion": "Smartphone premium, pantalla AMOLED 240Hz, 4 camaras, 6.9 pulgadas, procesador Octa-core QuantumChip Q5, 16GB ram, 512GB, 6000mAh con carga rapida, conectividad 6G, Wifi",
+      "precio": 239999,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "50",
+      "catId": 1,
+      "scId": 3,
+      "imageUrl": "https://www.dropbox.com/scl/fi/slsazct9msufkx34keb71/Celular-Aureon-X5-Pro.png?rlkey=znywmubby3ofrp9phyh50lehw&st=t1i9xxwi&dl=0",
+      "tags": [
+        "celular",
+        "smartphone",
+        "fotografía",
+        "aureon",
+        "X5",
+        "ultra wide",
+        "6G",
+        "amoled",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 8,
+      "nombre": "Celular Nebula One lite",
+      "descripcion": "Celular ligero accesible, pantalla OLED 120Hz, 6.5 pulgadas, procesador Hexa-core L3, 8GB ram, 256GB, 4500mAh con carga rapida, conectividad 5G+, Wifi",
+      "precio": 144000,
+      "divisa": "ARS",
+      "en Stock": "No disponible",
+      "stock": "50",
+      "catId": 1,
+      "scId": 3,
+      "imageUrl": "https://www.dropbox.com/scl/fi/yq0meej62z991hzfml1d9/Celular-Nebula-One-lite.png?rlkey=6rl98wzs1ezqsulnftmsrpa2m&st=fhv51e1v&dl=0",
+      "tags": [
+        "celular",
+        "ligero",
+        "económico",
+        "fotografía",
+        "estudiantes",
+        "lite",
+        "Nebula",
+        "6G",
+        "amoled",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 9,
+      "nombre": "Celular Zenith UltraFold",
+      "descripcion": "Smartphone plegable gama alta, pantalla AMOLED  flexible 240Hz, 3 camaras, 8.2 pulgadas, procesador Deca-core FusionCore Z9, 18GB ram, 1TB, 7000mAh con carga rapida, conectividad 6G, Wifi",
+      "precio": 540000,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "15",
+      "catId": 1,
+      "scId": 3,
+      "imageUrl": "https://www.dropbox.com/scl/fi/u2ffb9inufqkwm95bh917/Celular-Zenith-Ultrafold.png?rlkey=w61vuxzyyv5mggz8a2mn01jw6&st=7046d1n5&dl=0",
+      "tags": [
+        "celular",
+        "smartphone",
+        "fotografía",
+        "creatividad",
+        "multitask",
+        "zenith",
+        "ultrafold",
+        "flexible",
+        "amoled",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 10,
+      "nombre": "Motherboard ZEN Pro ZS990",
+      "descripcion": "Motherboard ZEN Pro, ATX, modelo ZS990, Chipset Z990, Socket LGA 1700, DDR5 hasta 128GB, PCIe 5.0, 2 M.2, 6 SATA 6Gb/s, USB 3.2, HDMI, Ethernet, audio HD, soporta OC",
+      "precio": 134453,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "25",
+      "catId": 2,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/oizrs4wh4tlc8x0tt89f7/Motherboard-ZEN-Pro.png?rlkey=bydgfym4hswecna2i3fvy1ign&st=paojjptb&dl=0",
+      "tags": [
+        "motherboard",
+        "chipset",
+        "z990",
+        "atx",
+        "intel",
+        "ddr5",
+        "pcie5",
+        "overclock",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 11,
+      "nombre": "Motherboard NovaCore Z780",
+      "descripcion": "Motherboard NovaCore , microATX, modelo Z780, Chipset Z780, Socket LGA 1700, DDR5 hasta 96GB, PCIe 5.0, 2 M.2 MVme, 4 SATA 6Gb/s, USB 3.2, HDMI, wifi, BT 5.2, soporta OC",
+      "precio": 410225,
+      "divisa": "ARS",
+      "en Stock": "No disponible",
+      "stock": "12",
+      "catId": 2,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/gybczco4i6y1ghyzhaoek/Motherboard-NovaCore.png?rlkey=9hybfbtuomhf3r9p164zp8pao&st=0x0kmogt&dl=0",
+      "tags": [
+        "motherboard",
+        "chipset",
+        "micro",
+        "atx",
+        "Z780",
+        "intel",
+        "ddr5",
+        "pcie5",
+        "compacto",
+        "overclock",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 12,
+      "nombre": "Motherboard Cryonix R995",
+      "descripcion": "Motherboard Cryonix , EATX, modelo R995, Chipset R995 Extreme, Socket LGA 1851, DDR5 hasta 192GB, Triple PCIe 5.0, 3 M.2 MVme, 8 SATA 6Gb/s, USB 4.0, HDMI, wifi, BT 5.2, soporta OC extremo",
+      "precio": 638289,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "30",
+      "catId": 2,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/vs7b8hbhxdagyobc31f91/Motherboard-Cryonix.png?rlkey=uoh6m29yj3dm3fvaytiryie6i&st=0f777e1d&dl=0",
+      "tags": [
+        "motherboard",
+        "chipset",
+        "extreme",
+        "atx",
+        "R995",
+        "intel",
+        "ddr5",
+        "triple",
+        "pcie5",
+        "compacto",
+        "overclock",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 13,
+      "nombre": "Microprocesador Intel NovaCore Z9",
+      "descripcion": "Microprocesador Intel 24 núcleos / 36 hilos, arquitectura intel core i9, frecuencia turbo 5.8GHz, soporte DDR5",
+      "precio": 768465,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "10",
+      "catId": 2,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/xae18vzdodgpezhct1qmz/Procesador-Intel-NovaCore.png?rlkey=lx8j6o2k4x3nxpmpmc5arcjf2&st=o8il2v0c&dl=0",
+      "tags": [
+        "microprocesador",
+        "intel",
+        "novacore",
+        "z9",
+        "gaming",
+        "gpu",
+        "ddr5",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 14,
+      "nombre": "Microprocesador AMD FireStorm X7",
+      "descripcion": "Microprocesador AMD, ryzen 7, 16 núcleos / 32 hilos, frecuencia turbo 5.6GHz, tecnologia 3D V-Cache, soporte DDR5 y PCIe 6.0",
+      "precio": 427419,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "15",
+      "catId": 2,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/wr8lhzvw3z8wf0zht6c7l/Procesador-Intel-FireStorm.png?rlkey=00pr9q0c6clzdcted2t8f224j&st=greg1lw1&dl=0",
+      "tags": [
+        "microprocesador",
+        "amd",
+        "novacore",
+        "ryzen",
+        "x7",
+        "gaming",
+        "v-cache",
+        "ddr5",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 15,
+      "nombre": "Microprocesador Intel FireCore X10",
+      "descripcion": "Microprocesador Intel, i9, 32 núcleos / 64 hilos, frecuencia turbo 6.0GHz, soporte DDR5 y PCIe 6.0",
+      "precio": 1227299,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "30",
+      "catId": 2,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/zwjita8ac3wz9kmswzl2h/Procesador-Intel-Firecore-X10.png?rlkey=u1jcepll7dxf0t9yrrtrzf7z4&st=37y1uq0p&dl=0",
+      "tags": [
+        "microprocesador",
+        "chipset",
+        "i9",
+        "gaming",
+        "nucleos",
+        "hilos",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 16,
+      "nombre": "Placa de video AetherX GAMER",
+      "descripcion": "Placa de video con cuerpo robusto en negro mate, doble ventilador y disipador de aluminio, 3 DisplayPort y 1 HDMI, 16GB GDDR5, frecuencia base 1800Mhz, soporte para DirectX 12 Ultimate y Vulkan",
+      "precio": 752034,
+      "divisa": "ARS",
+      "en Stock": "No disponible",
+      "stock": "25",
+      "catId": 2,
+      "scId": 3,
+      "imageUrl": "https://www.dropbox.com/scl/fi/ryxszysix60ocrdzk6o7q/Placa-de-Video-AetherX.png?rlkey=raaajnska0f40k1gcxceymgvs&st=bvrspr3j&dl=0",
+      "tags": [
+        "placa",
+        "video",
+        "ventilacion",
+        "refrigeracion",
+        "DirectX12",
+        "GDDR5",
+        "PCIe 4.0",
+        "hdmi",
+        "gamer",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 17,
+      "nombre": "Placa de video Cryonix Vortex",
+      "descripcion": "Placa de video Cryonix, tripe ventilador, disipador de aluminio, 4 DisplayPort y 2 HDMI, 24GB GDDR5, frecuencia base 1900Mhz, PCIe 5.0, soporte para DirectX 12 Ultimate, Vulkan y OpenCL",
+      "precio": 811499,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "15",
+      "catId": 2,
+      "scId": 3,
+      "imageUrl": "https://www.dropbox.com/scl/fi/67w9f0gbodzsdsel50rfu/Placa-de-Video-Cryonix.png?rlkey=iwegwzu466tf1upkn60gimyse&st=fg8tkhg7&dl=0",
+      "tags": [
+        "placa",
+        "video",
+        "ventilacion",
+        "refrigeracion",
+        "DirectX12",
+        "GDDR5",
+        "PCIe 5.0",
+        "hdmi",
+        "gamer",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 18,
+      "nombre": "Placa de video Vulkan Edge",
+      "descripcion": "Placa de video Vulkan Edge, tripe ventilador, disipador de aluminio, 2 DisplayPort y 3 HDMI, LED rojos, 20GB GDDR6 ideal para gaming 4K/8K, frecuencia base 1950Mhz, PCIe 5.0, soporte para DirectX 12 Ultimate, Vulkan y Ray Tracing",
+      "precio": 1099999,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "20",
+      "catId": 2,
+      "scId": 3,
+      "imageUrl": "https://www.dropbox.com/scl/fi/yjfhz1pqu1fx1qc995i1o/Placa-de-Video-Vulkan-Edge.png?rlkey=x1j8ih2oqrk0e285opq5ey4as&st=704alcx2&dl=0",
+      "tags": [
+        "placa",
+        "video",
+        "ventilacion",
+        "refrigeracion",
+        "DirectX12",
+        "GDDR6",
+        "resolucion",
+        "4K",
+        "8K",
+        "PCIe 4.0",
+        "hdmi",
+        "gamer",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 19,
+      "nombre": "Mouse Gamer Ice Vortex",
+      "descripcion": "Mouse gamer Ice Vortex con diseño ergonómico con curvas suaves y acabado mate, iluminacion RGB en los laterales, 2 botones laterales programables",
+      "precio": 36132,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "12",
+      "catId": 3,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/spl26a7tmjrar829baw10/Mouse-Gamer-Ice-Vortex.png?rlkey=sav3cwguj3x1xkrbb4if4oeh8&st=o1zyrhhh&dl=0",
+      "tags": [
+        "mouse",
+        "periferico",
+        "usd",
+        "con cable",
+        "ergonómico",
+        "acceso",
+        "rapido",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 20,
+      "nombre": "Mouse Gamer Magic Raven",
+      "descripcion": "Mouse Gamer Magic Raven con diseño ergonómico, 6 botones programables, respuesta instantanea, compatible para varios sistemas operativos",
+      "precio": 45299,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "14",
+      "catId": 3,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/t3p35vhxapnq9d6gi5ctp/Mouse-Gamer-Magic-Raven.png?rlkey=mz4koh9xdca0642vbkoniwe97&st=b7ttmbbq&dl=0",
+      "tags": [
+        "mouse",
+        "periferico",
+        "usd",
+        "con cable",
+        "ergonómico",
+        "acceso",
+        "rapido",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 21,
+      "nombre": "Mouse Gamer VeloCore",
+      "descripcion": "Mouse Gamer VeloCore, diseño futurista con acabados negros, sensor optico avanzado, respuesta rapida, memoria interna para guardar perfiles de iluminacion y macros",
+      "precio": 68000,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "20",
+      "catId": 3,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/xh8nxi901vw1rhpc9b3po/Mouse-Gamer-VeloCore.png?rlkey=fqp7u7y6t3wwy1t5yq9ss6vw9&st=6bwkakgf&dl=0",
+      "tags": [
+        "mouse",
+        "periferico",
+        "usd",
+        "con cable",
+        "ergonómico",
+        "acceso",
+        "rapido",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 22,
+      "nombre": "Teclado Thunderbyte Gamer",
+      "descripcion": "Teclado Thunderbyte Gamer de membrana con diseño compacto y retroiluminación RGB en degradé. Ideal para sesiones prolongadas gracias a su perfil bajo y teclas silenciosas. Compatible con Windows y Mac.",
+      "precio": 56899,
+      "divisa": "ARS",
+      "en Stock": "No disponible",
+      "stock": "30",
+      "catId": 3,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/aw3m79lp934kvdixg8mqz/Teclado-Gamer-Thunderbyte.png?rlkey=qtye7m11k1vdpsxwnevnukq1e&st=szo6moua&dl=0",
+      "tags": [
+        "keyboard",
+        "teclado gamer",
+        "periferico",
+        "rgb",
+        "membrana",
+        "gaming",
+        "usb",
+        "argentina"
+      ]
+    },
+    {
+      "ProductId": 23,
+      "nombre": "Teclado NovaCore Gamer",
+      "descripcion": "Teclado gamer mecánico con switches rojos, respuesta táctil precisa y estructura reforzada en aluminio. Retroiluminación personalizable por zonas. Perfecto para eSports y streamers exigentes.",
+      "precio": 40000,
+      "divisa": "ARS",
+      "en Stock": "No disponible",
+      "stock": "18",
+      "catId": 3,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/d06f1pbta87bx6awuj2q4/Teclado-Gamer-NovaCore.png?rlkey=p40e0iytdep3ymm9kxgjvt4jk&st=hd91qvvi&dl=0",
+      "tags": [
+        "keyboard",
+        "teclado gamer",
+        "periferico",
+        "mecanico",
+        "rgb",
+        "gaming",
+        "argentina",
+        "switches"
+      ]
+    },
+    {
+      "ProductId": 24,
+      "nombre": "Teclado PixelStorm Gamer",
+      "descripcion": "Teclado gamer de membrana con diseño moderno y teclas multimedia dedicadas. Iluminación tenue azul opcional. Ideal para jugadores casuales y entornos de oficina.",
+      "precio": 56899,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "12",
+      "catId": 3,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/rft4w9rnb559nf3gsrv32/Teclados-Gamer-PixelStorm.png?rlkey=u8d8c25cglf3n7kwrbtw8ia70&st=f5qxb3e9&dl=0",
+      "tags": [
+        "keyboard",
+        "teclado gamer",
+        "periferico",
+        "membrana",
+        "gaming",
+        "argentina",
+        "multimedia",
+        "usb"
+      ]
+    },
+    {
+      "ProductId": 25,
+      "nombre": "Disco HDD TitanDrive",
+      "descripcion": "Disco duro mecánico de 1TB, interfaz SATA III, velocidad de 7200 RPM. Ideal para almacenamiento masivo y respaldo de datos.",
+      "precio": 89999,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "50",
+      "catId": 4,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/llhv2jv10k676979gzark/Disco-HDD-TitanDrive.png?rlkey=avyqa86gq783vs0cin9kgb3z8&st=wg61u81m&dl=0",
+      "tags": [
+        "hdd",
+        "disco",
+        "almacenamiento",
+        "sata",
+        "argentina",
+        "1TB",
+        "backup",
+        "7200rpm"
+      ]
+    },
+    {
+      "ProductId": 26,
+      "nombre": "Disco HDD DataForge",
+      "descripcion": "Disco duro mecánico de 8TB, interfaz SATA III, velocidad de 5400 RPM. Perfecto para uso doméstico y almacenamiento multimedia.",
+      "precio": 379999,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "35",
+      "catId": 4,
+      "scId": 1,
+      "imageUrl": "https://www.dropbox.com/scl/fi/g6xhmm3gglbgdgaeevfbl/Disco-HDD-DataForge.png?rlkey=y7a3f9ufp50bdzoya4onvkzt1&st=u8s3tufc&dl=0",
+      "tags": [
+        "hdd",
+        "disco",
+        "almacenamiento",
+        "sata",
+        "argentina",
+        "8TB",
+        "multimedia",
+        "5400rpm"
+      ]
+    },
+    {
+      "ProductId": 27,
+      "nombre": "Disco SSD FlashCore",
+      "descripcion": "SSD de 480GB con interfaz SATA III, velocidad de lectura de hasta 550 MB/s. Ideal para mejorar el rendimiento de notebooks y PCs.",
+      "precio": 80000,
+      "divisa": "ARS",
+      "en Stock": "No disponible",
+      "stock": "30",
+      "catId": 4,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/3t6woi9giuv1rdfaiah2w/Disco-SSD-460GB-FlashCore.png?rlkey=88t3jjkpjd334mo14xkcbnvtu&st=s5ivq2ty&dl=0",
+      "tags": [
+        "ssd",
+        "disco",
+        "almacenamiento",
+        "sata",
+        "argentina",
+        "480GB",
+        "rapido",
+        "notebook"
+      ]
+    },
+    {
+      "ProductId": 28,
+      "nombre": "Disco SSD HyperSpeed",
+      "descripcion": "SSD de 1TB con interfaz SATA III, velocidad de lectura de hasta 560 MB/s. Diseñado para gamers y profesionales que requieren alta velocidad.",
+      "precio": 120000,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "45",
+      "catId": 4,
+      "scId": 2,
+      "imageUrl": "https://www.dropbox.com/scl/fi/nmaf9chulxejsjupjbk0u/Disco-SSD-1TB-HyperSpeed.png?rlkey=tbp4ibkzp82j7u359f3c3zngu&st=jaycc2p4&dl=0",
+      "tags": [
+        "ssd",
+        "disco",
+        "almacenamiento",
+        "sata",
+        "argentina",
+        "1TB",
+        "gaming",
+        "profesional"
+      ]
+    },
+    {
+      "ProductId": 29,
+      "nombre": "Pendrive NanoFlash",
+      "descripcion": "Pendrive USB 3.0 de 32GB, compacto y resistente. Ideal para transporte rápido de archivos.",
+      "precio": 10097,
+      "divisa": "ARS",
+      "en Stock": "si",
+      "stock": "40",
+      "catId": 4,
+      "scId": 3,
+      "imageUrl": "https://www.dropbox.com/scl/fi/2whm3nyz38230n7j9ik3e/Pendrive-NanoFlash.png?rlkey=emhva156kppdzmqjcknwdcw5x&st=avt71f3m&dl=0",
+      "tags": [
+        "pen",
+        "pendrive",
+        "disco",
+        "almacenamiento",
+        "usb",
+        "argentina",
+        "32GB",
+        "portable"
+      ]
+    },
+    {
+      "ProductId": 30,
+      "nombre": "Pendrive UltraVault",
+      "descripcion": "Pendrive USB 3.1 de 32GB, con carcasa metálica y alta velocidad de transferencia. Perfecto para uso profesional.",
+      "precio": 22000,
+      "divisa": "ARS",
+      "en Stock": "No disponible",
+      "stock": "35",
+      "catId": 4,
+      "scId": 3,
+      "imageUrl": "https://www.dropbox.com/scl/fi/sfv0jf2tl21hajomyuy4s/Pendrive-UltraVault.png?rlkey=nj1zj2fzb03nlcs8ks1h5ih5b&st=afni5x1o&dl=0",
+      "tags": [
+        "pen",
+        "pendrive",
+        "disco",
+        "almacenamiento",
+        "usb",
+        "argentina",
+        "64GB",
+        "profesional",
+        "rapido"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "userID": "9b30",
+      "nombre": "Julio",
+      "apellido": "Perone",
+      "correo": "jjperonerocholl23@gmail.com",
+      "contraseña": 123456,
+      "fecha_nacimiento": 1993,
+      "telefono": 3764123456
+    },
+    {
+      "id": "9b31",
+      "nombre": "Oscar",
+      "apellido": "Rojas",
+      "correo": "osRojas@gmail.com",
+      "contraseña": "123456",
+      "fecha_nacimiento": "1998-02-12",
+      "direccion": "avRoqueGonzales xxxx",
+      "telefono": "3764123456"
+    },
+    {
+      "id": "b058",
+      "nombre": "Matias",
+      "apellido": "Fernandez",
+      "correo": "Matfer@gmail.com",
+      "contraseña": "ajaalgoaqui",
+      "fecha_nacimiento": "1995-12-01",
+      "direccion": "avRoqueSanPeña xxxx",
+      "telefono": "3764123456"
+    }
+  ],
+  "categories": [
+    {
+      "catId": 1,
+      "nombre": "Notebook/PC/Celulares",
+      "subcategories": [
+        {
+          "scId": 1,
+          "nombre": "notebook"
+        },
+        {
+          "scId": 2,
+          "nombre": "pc gamer"
+        },
+        {
+          "scId": 3,
+          "nombre": "celulares"
+        }
+      ]
+    },
+    {
+      "catId": 2,
+      "nombre": "Hardware",
+      "subcategories": [
+        {
+          "scId": 1,
+          "nombre": "motherboard"
+        },
+        {
+          "scId": 2,
+          "nombre": "microprocesador"
+        },
+        {
+          "scId": 3,
+          "nombre": "placa de video"
+        }
+      ]
+    },
+    {
+      "catId": 3,
+      "nombre": "Periféricos",
+      "subcategories": [
+        {
+          "scId": 1,
+          "nombre": "Mouse"
+        },
+        {
+          "scId": 2,
+          "nombre": "Teclados"
+        }
+      ]
+    },
+    {
+      "catId": 4,
+      "nombre": "Almacenamiento",
+      "subcategories": [
+        {
+          "scId": 1,
+          "nombre": "Disco HDD"
+        },
+        {
+          "scId": 2,
+          "nombre": "Disco SSD"
+        },
+        {
+          "scId": 3,
+          "nombre": "Pendrive"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.App {
+  display: grid;
+  grid-template-rows: auto 1fr auto; // header, contenido, footer
+  min-height: 100vh; // ocupa toda la pantalla
+}
+
+.Header {
+  grid-row: 1;
+}
+
+.Main {
+  grid-row: 2;
+  padding: 2rem;
+  background-color: #fff; // espacio en blanco
+}
+
+.Footer {
+  grid-row: 3;
+}
