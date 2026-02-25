@@ -45,7 +45,7 @@ mi-proyecto/
 │   ├── components/  # Componentes reutilizables
 │   ├── context/     # Contextos: carrito, productos y tema claro/oscuro
 │   ├── hooks/       # Custom hooks  
-│   ├── pages/       # Vistas principales
+│   ├── pages/       # Vistas
 │   ├── routes/      # Todas las rutas
 │   ├── sass/        # CSS modular
 │   ├── utils/       # Funciones auxiliares
