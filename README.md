@@ -14,8 +14,10 @@ Este proyecto es una aplicación desarrollada en React que consiste en una tiend
 ## **<ins>Sistemas implementados:</ins>**
 
 - Ver productos por categorías y subcategorías  
-- Buscar productos por palabras clave: puede ser por el nombre del producto,
-  palabras de la descripcion o las almacenadas en la base de datos.
+- Buscar productos por palabras clave:
+  - Puede ser por el nombre del producto
+  - Palabras de la descripcion
+  - Las almacenadas en la base de datos, ver campo (tags)
 - El carrito:  
   - Añadir/Quitar ítems  
   - Aumentar o disminuir la cantidad de ítems  
