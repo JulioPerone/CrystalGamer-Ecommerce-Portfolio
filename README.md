@@ -14,7 +14,8 @@ Este proyecto es una aplicación desarrollada en React que consiste en una tiend
 ## **<ins>Sistemas implementados:</ins>**
 
 - Ver productos por categorías y subcategorías  
-- Buscar productos por palabras clave  
+- Buscar productos por palabras clave: puede ser por el nombre del producto,
+  palabras de la descripcion o las almacenadas en la base de datos.
 - El carrito:  
   - Añadir/Quitar ítems  
   - Aumentar o disminuir la cantidad de ítems  
@@ -62,19 +63,23 @@ mi-proyecto/
 ```bash
 git clone https://github.com/JulioPerone/CrystalGamer-Ecommerce-Portfolio.git
 ```
-2. Intalar dependencias: 
+2. Entrar a la carpeta del proyecto
+```bash
+cd CrystalGamer-Ecommerce-Portfolio
+```
+3. Intalar dependencias: 
 ```bash
 npm install
 ```
-3. Ejecutar en modo desarrollo: 
+4. Ejecutar en modo desarrollo con Vite: 
 ```bash
 npm run dev
 ```
-4. Ejecutar también el servidor de la base de datos: 
+5. Ejecutar también el servidor de la base de datos con json-server: 
 ```bash
 npm run server
 ```
-5. Abrir en el navegador:
+6. Abrir en el navegador:
 ```bash
 http://localhost:5173/
 ```
