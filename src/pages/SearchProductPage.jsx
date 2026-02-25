@@ -1,3 +1,6 @@
+// SearchProductPage.jsx
+// Página que permite buscar un producto por palabras clave.
+
 import { Link } from "react-router-dom";
 import { useContext, useEffect, useState } from "react";
 import { ProductTagsContext } from "../context/ProductTagsContext";

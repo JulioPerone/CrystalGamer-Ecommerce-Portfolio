@@ -1,3 +1,6 @@
+// useNewUser.js
+// Custom hook que permite la creación de un nuevo usuario.
+
 import { useState } from "react"
 
 export const useNewUser = () => {
@@ -30,5 +33,10 @@ export const useNewUser = () => {
         }
     }
 
-    return { data, isLoading, error, createUser };
+    return { 
+        data,       //datos del usuario creado
+        isLoading,  //estado de carga
+        error,      //mensaje de error si falla
+        createUser  //funcion que ejecuta la creacion
+    };
 }

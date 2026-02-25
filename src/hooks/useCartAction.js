@@ -1,3 +1,6 @@
+// useCartAction.js
+// Custom hook que permite acciones para el carrito: añadir, quitar item, aumentar y disminuir la cantidad.
+
 import { useReducer } from "react";
 import { v4 as uuid } from "uuid"; // librería para generar IDs únicos
 

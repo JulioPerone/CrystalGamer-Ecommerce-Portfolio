@@ -1,3 +1,6 @@
+// Register.jsx
+// Página de registro que permite la creación de un nuevo usuario
+
 import { Link } from "react-router-dom";
 import { useState } from "react"
 import { useNewUser } from "../hooks/useNewUser"

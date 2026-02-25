@@ -1,3 +1,6 @@
+// ImageCard.jsx
+// Componente carta de presentación para cada producto, muestra toda la información.
+
 import { useCart } from '../context/CartContext';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';

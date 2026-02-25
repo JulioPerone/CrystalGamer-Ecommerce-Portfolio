@@ -1,3 +1,6 @@
+// MyCartPage.jsx
+// Página que muestra el contenido del carrito.
+
 import { formatPrecio } from '../utils/formatPrecio.js';
 import HomeSharpIcon from '@mui/icons-material/HomeSharp';
 import { Link } from "react-router-dom";

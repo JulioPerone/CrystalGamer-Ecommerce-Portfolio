@@ -5,7 +5,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: v.$font-stack; // uso de variable global
+  font-family: v.$font-stack;
 
   img {
     border-radius: 8px;
@@ -16,11 +16,11 @@
   h4 {
     font-size: 1.2rem;
     margin: 0 10px;
-    color: v.$primary; // uso de variable
+    color: v.$primary;
   }
 
   p {
-    color: darken(v.$secondary, 30%); // derivado de variable
+    color: darken(v.$secondary, 30%);
     margin: 15px;
   }
 
@@ -30,7 +30,7 @@
     align-items: center;
 
     button {
-      // aplico el mixin con alias "m"
+      
       &.increment {
         @include m.button-style(v.$primary, white);
       }
@@ -50,11 +50,11 @@
 .item-list {
   .container_cart {
     &:nth-child(odd) {
-      background-color: v.$secondary; // gris claro
+      background-color: v.$secondary;
     }
 
     &:nth-child(even) {
-      background-color: darken(v.$secondary, 8%); // gris más oscuro
+      background-color: darken(v.$secondary, 8%);
     }
   }
 }

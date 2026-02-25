@@ -1,4 +1,6 @@
 // useTagFilter.js
+// Custom hook que permite filtrar los resultados por palabras clave.
+
 import { useState } from "react";
 
 export const useTagFilter = (productos) => {

@@ -17,6 +17,7 @@ $spinner-bg: #f3f3f3;
     }
   }
 
+  //Configuracion de un spinner mientras se procesa la compra
   .spinner {
     margin-top: 10px;
     border: $spinner-border solid $spinner-bg;

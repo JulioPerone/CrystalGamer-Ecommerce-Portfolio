@@ -1,3 +1,6 @@
+// BadgeCart.jsx
+// Componente que muestra el badge, cantidad de items añadidos al carrito.
+
 import { useCart } from '../context/CartContext';
 import { Link } from 'react-router-dom';
 import Badge from '@mui/material/Badge';

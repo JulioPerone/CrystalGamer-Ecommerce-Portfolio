@@ -1,4 +1,6 @@
-// context/ThemeContext.jsx
+// ThemeContext.jsx
+// Contexto para cambio de tema claro/oscuro
+
 import { createContext, useState, useMemo } from "react";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 

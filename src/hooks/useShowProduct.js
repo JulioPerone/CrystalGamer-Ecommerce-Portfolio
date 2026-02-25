@@ -1,4 +1,6 @@
-//este fue el sistema basico, archivo reemplazado por la version 2 -> useShowProductV2
+// useShowProducts.js
+// Custom hook de prueba. archivo reemplazado por | useShowProductV2 |
+
 import { useEffect, useState } from 'react';
 
 export const useShowProduct = (url) => {
