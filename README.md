@@ -82,8 +82,7 @@ http://localhost:5173/
 
 ## **<ins>Licencia:<ins>**
 
-Este proyecto fue creado con fines de **portfolio personal**.
-No está permitido su uso comercial.  
-Puedes utilizarlo para estudiarlo y compartirlo.  
+Este proyecto fue creado con fines de **portfolio personal**, no está permitido su uso comercial.  
+Puedes utilizarlo para estudiarlo y compartirlo. 
 
 **Copyright © Julio Perone — Todos los derechos reservados**
