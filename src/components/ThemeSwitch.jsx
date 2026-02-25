@@ -1,3 +1,6 @@
+// ThemeSwitch.jsx
+// Componente que permite el cambio del modo (tema claro/oscuro).
+
 import { styled } from '@mui/material/styles';
 import Switch from '@mui/material/Switch';
 

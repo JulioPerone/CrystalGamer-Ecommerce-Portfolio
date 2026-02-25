@@ -1,3 +1,6 @@
+// AllProductPage.jsx
+// Página para mostrar todos los productos filtrando categorías y subcategorías.
+
 import { useState, useEffect } from 'react';
 import { dropboxlinks } from "../utils/dropboxlinks";
 import { useShowProductV2 } from "../hooks/useShowProductV2";
@@ -10,7 +13,6 @@ export const AllProductPage = () => {
     const [catId, setCatId] = useState("");
     const [scId, setScId] = useState("");
 
-    // Fetch categorías desde json-server
     useEffect(() => {
         fetch("http://localhost:3000/categories")
             .then(res => res.json())
@@ -34,7 +36,7 @@ export const AllProductPage = () => {
                 <label>Categoría: </label>
                 <select value={catId} onChange={(e) => {
                     setCatId(e.target.value);
-                    setScId(""); // reset subcategoría al cambiar categoría
+                    setScId("");
                 }}>
                     <option value="">Todas</option>
                     {categories.map(cat => (

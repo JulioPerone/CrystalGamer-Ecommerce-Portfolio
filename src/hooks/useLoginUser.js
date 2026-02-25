@@ -1,3 +1,6 @@
+// useLoginUser.js
+// Custom hook que permite hacer login comparando con la información consultada de la base de datos.
+
 import { useEffect, useState } from 'react';
 
 export const useLoginUser = (url = "http://localhost:3000/users") => {
@@ -29,5 +32,9 @@ export const useLoginUser = (url = "http://localhost:3000/users") => {
         return () => controller.abort();
     }, [url]);
 
-    return { data, isLoading, error };
+    return { 
+        data,       //informacion consultada
+        isLoading,  //estado de carga
+        error       //mensaje de error en caso de falla
+    };
 };

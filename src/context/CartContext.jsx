@@ -1,3 +1,6 @@
+// CartContext.jsx
+// Contexto para el carrito.
+
 import { createContext, useContext } from "react";
 import { useCartAction } from "../hooks/useCartAction";
 
@@ -24,5 +27,4 @@ export const CartProvider = ({ children }) => {
   );
 };
 
-// Hook interno que evita tener que escribir useContext(CartContext) en cada componente
 export const useCart = () => useContext(CartContext);

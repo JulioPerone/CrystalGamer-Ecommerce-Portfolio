@@ -3,12 +3,11 @@
 
 .Navbar {
   display: flex;
-  flex-direction: column; // dos filas
+  flex-direction: column;
   background-color: v.$secondary;
   padding: 0.5rem 1rem;
   border-bottom: 1px solid lighten(v.$primary, 40%);
 
-  // Fila superior
   .nav-top {
     display: flex;
     justify-content: space-between;
@@ -37,7 +36,6 @@
     }
   }
 
-  // Fila inferior
   .nav-bottom {
     display: flex;
     justify-content: space-between;
@@ -75,21 +73,22 @@
   }
 }
 
-// 🔥 Reglas para modo claro/oscuro
+// Reglas para modo claro/oscuro
+
 .app.light .Navbar {
-  background-color: v.$secondary; // tu color claro
+  background-color: v.$secondary;
   a {
     color: v.$primary;
   }
 }
 
 .app.dark .Navbar {
-  background-color: #030d31; // fondo oscuro
+  background-color: #030d31;
   border-bottom: 1px solid lighten(#030d31, 20%);
   a {
-    color: #eee; // links claros
+    color: #eee;
   }
   i {
-    color: #ccc; // íconos claros
+    color: #ccc;
   }
 }

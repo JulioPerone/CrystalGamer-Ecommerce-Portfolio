@@ -1,3 +1,6 @@
+// Footer.jsx
+// Componente que contiene los Links del pie de página, no estan activos.
+
 import "../sass/footer.scss"
 
 export const Footer = () => {

@@ -1,3 +1,6 @@
+// Login.jsx
+// Página que permite el inicio de sesión.
+
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import { useLoginUser } from "../hooks/useLoginUser";
@@ -23,7 +26,7 @@ export const Login = () => {
             setFeedback({ nombre: true, correo: true, contraseña: true });
             alert("Login exitoso ✅");
         } else {
-            // Buscar el usuario por partes para dar feedback
+            // Buscar el usuario por partes para dar feedback 
             const nombreOk = data.some((u) => u.nombre === nombreUser);
             const correoOk = data.some((u) => u.correo === correoUser);
             const contraseñaOk = data.some((u) => u.contraseña === contraseñaUser);

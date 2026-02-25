@@ -1,3 +1,6 @@
+// CheckoutButton.jsx
+// Componente button que permite confirmar la compra.
+
 import { useState } from "react";
 import { useCart } from "../context/CartContext.jsx";
 import { formatPrecio } from "../utils/formatPrecio.js";

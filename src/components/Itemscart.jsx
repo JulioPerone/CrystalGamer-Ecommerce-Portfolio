@@ -1,3 +1,6 @@
+// Itemscart.jsx
+// Componente de presentación para cada producto que se añade al carrito.
+
 import { useCart } from "../context/CartContext.jsx";
 import "../sass/myCartStyle.scss"
 
@@ -17,7 +20,7 @@ export const ItemsCart = () => {
           <button onClick={() => decrement(item.cartItemId)}>➖</button>
         </div>
 
-          {/* Precio formateado con separador de miles */}
+          {/* Muestra el precio formateado según la convención argentina */}
           <p className="precio_cart">
             {(item.cantidad * item.precio).toLocaleString("es-AR")} {item.divisa}
           </p>

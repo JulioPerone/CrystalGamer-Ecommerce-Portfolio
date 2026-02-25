@@ -35,7 +35,7 @@
 
   button {
     margin-top: 15px;
-    @include m.button-style(v.$primary, #fff); // usando tu mixin
+    @include m.button-style(v.$primary, #fff);
     font-size: 16px;
 
     &:disabled {

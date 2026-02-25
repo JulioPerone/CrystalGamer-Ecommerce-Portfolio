@@ -1,4 +1,6 @@
-// src/hooks/useShowProductV2.js
+// useShowProductV2.js
+// Custom hook que permite consultar la información de cada producto por categoría y subcategoría.
+
 import { useEffect, useState } from 'react';
 
 export const useShowProductV2 = (baseUrl, catId = "", scId = "") => {
@@ -35,5 +37,9 @@ export const useShowProductV2 = (baseUrl, catId = "", scId = "") => {
         return () => controller.abort();
     }, [baseUrl, catId, scId]);
 
-    return { data, isLoading, error };
+    return { 
+        data,       //datos de cada producto 
+        isLoading,  //estado y control de carga
+        error       //mensaje de error en caso de falla
+    };
 };
